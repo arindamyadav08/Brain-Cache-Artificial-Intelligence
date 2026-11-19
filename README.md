@@ -5,7 +5,7 @@
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
-
+View Project made by Arindam & Co.  :- https://braincache.ai.studio
 View your app in AI Studio: https://ai.studio/apps/e45a5ce7-f501-47f1-84d1-61e990af3eea
 
 ## Run Locally
